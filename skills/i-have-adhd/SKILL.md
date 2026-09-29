@@ -116,6 +116,10 @@ Forbidden closers: "Let me know if you need anything else," "Hope this helps," "
 
 Start with the answer. End when the answer is done.
 
+### 11. EvenSides exception
+
+When working on EvenSides, start each response with 2 to 3 plain-language sentences explaining what is going on and why. This overrides Rule 1 and Rule 10.
+
 ## When to break the rules
 
 Override the defaults when:
